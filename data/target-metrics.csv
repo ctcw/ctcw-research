@@ -1,0 +1,20 @@
+TargetType,Company,PublishedYear,ReferenceYear,TargetYear,TargetProportion,ScopeCoverage,SubsidiaryCoverage,TargetTransparency,TargetIntegrity,Source,Provider,TemperatureAlignment
+EmissionReduction,Unilever,2020,2015,2030,100,1+2,,,,https://sciencebasedtargets.org/reports/sbti-progress-report-2021/progress-data-dashboard#datadashboard,Science Based Targets,1.5
+IntensityReduction,Unilever,2020,2010,2030,50,1+2+3,,,,https://sciencebasedtargets.org/reports/sbti-progress-report-2021/progress-data-dashboard#datadashboard,Science Based Targets,1.5
+NetZero,Unilever,2020,2019,2039,100,1+2+3,Yes,Moderate,Low,Corporate Climate Responsibility Monitor,,
+EmissionReduction,Accenture,2020,2016,2025,11,1+2+3,Yes,Reasonable,Very Low,Corporate Climate Responsibility Monitor,,1.5
+NetZero,Accenture,2020,2016,2025,100,1+2+3,Yes,Reasonable,Very Low,Corporate Climate Responsibility Monitor,,1.5
+NetZero,"Amazon.com, Inc.",2019,2019,2040,100,1+2+3,No,Low,Low,Corporate Climate Responsibility Monitor,,?
+NetZero,Apple Inc.,2020,2020,2030,100,1+2+3,Yes,Reasonable,Moderate,Corporate Climate Responsibility Monitor,,
+EmissionReduction,Apple Inc.,2020,2019,2030,62,1+2+3,Yes,Reasonable,Moderate,Corporate Climate Responsibility Monitor,,1.5
+NetZero,Google Inc.,2020,2020,2030,100,1+2+3,No,Low,Low,Corporate Climate Responsibility Monitor,,
+NetZero,Nestle,2020,2019,2050,100,1+2+3,Yes,Very Low,Very Low,Corporate Climate Responsibility Monitor,,
+EmissionReduction,Nestle,2020,2018,2025,80,1+2+3,Yes,Very Low,Very Low,Science Based Targets,Science Based Targets,1.5
+EmissionReduction,Nestle,2020,2018,2030,50,1+2+3,Yes,Very Low,Very Low,Science Based Targets,Science Based Targets,1.5
+NetZero,GlaxoSmithKline,2020,2017,2030,100,1+2+3,Unclear,Moderate,Low,Corporate Climate Responsibility Monitor,,
+EmissionReduction,GlaxoSmithKline,2020,2017,2025,66,1+2,Unclear,Moderate,Low,Science Based Targets,Science Based Targets,1.5
+EmissionReduction,GlaxoSmithKline,2020,2017,2030,84,3,Unclear,Moderate,Low,Science Based Targets,Science Based Targets,2
+EmissionReduction,GlaxoSmithKline,2018,2017,2025,90,1+2,,,,Science Based Targets,Science Based Targets,2
+EmissionReduction,GlaxoSmithKline,2018,2017,2030,84,3,,,,Science Based Targets,Science Based Targets,2
+NetZero,AP Moller - Maersk,2021,2019,2040,100,1+2+3,Yes,Reasonable,Reasonable,Corporate Climate Responsibility Monitor,,1.5
+EmissionReduction,AP Moller - Maersk,2021,2019,2040,90,1+2+3,,,,,,1.5
